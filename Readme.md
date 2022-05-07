@@ -13,8 +13,7 @@ The "feature" columns is not relevant with our mission, so I want to delete it, 
 The first paragraph is about the relation between the car brand and the sales.
 I use a bar chart to represent the sales of each car brand.(Peiju Yu)
 
-I created a Body Type Histogram, we can see thhe sedan has the highest frequency of body Type(Shuhan Li)
+I created a Body Type Histogram, we can see that sedan has the highest frequency of body Type(Shuhan Li)
 
-
-
+After Yu and Li, I made the last one--Engine Type Histogram，we can see that Gasoline cars are more popular (Xi Shen)
 
