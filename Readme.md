@@ -3,17 +3,4 @@ Readme please
 CS521 Final Project 
 Team Member：Xi Shen, Peiju Yu, Shuhan Li
 
-So the first step is to import our dataset into the environment
-Then import pandas, sklearn, matplotlib.pyplot and numpy
-
-I define our dataset as "df", so you should base on it to do something next.
-There is 10 null value in "engine_type", and I drop some empty values from "df".
-The "feature" columns is not relevant with our mission, so I want to delete it, too.(Xi Shen)
-
-The first paragraph is about the relation between the car brand and the sales.
-I use a bar chart to represent the sales of each car brand.(Peiju Yu)
-
-I created a Body Type Histogram, we can see that sedan has the highest frequency of body Type(Shuhan Li)
-
-After Yu and Li, I made the last one--Engine Type Histogram，we can see that Gasoline cars are more popular (Xi Shen)
-
+Our project is about price forecasting of used cars. We called data from the used car market, where we could see various aspects of the car, such as manufacturer name, model name, color, milages, transmission and so on. After removing some unnecessary columns, three histogram graphs were drawn. Then we digitized the various categories in the dataset to get more accurate correlation. using random forest model, we divided the data in the dataset into 20% of the test set and 80% of the training set, and got our prediction results and obtained the important feature variables by integration. In addition, in order to cope with different market conditions, three other prediction models were made, all of which can get machine predicted used car prices that can compare well with the market situation.
